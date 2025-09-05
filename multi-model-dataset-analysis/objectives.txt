@@ -1,0 +1,41 @@
+Regression Practice Questions
+1. Electricity Bill Prediction
+o Question: Predict the electricity bill amount based on household size, daily usage hours, and the number of appliances.
+o Model: Linear Regression or ANN with one output neuron.
+o Evaluation: Use metrics like Mean Absolute Error (MAE) or R² score.
+2. Temperature Forecasting
+o Question: Predict the temperature based on the day of the year and rainfall.
+o Model: Polynomial Regression or ANN.
+o Hint: Since weather patterns can be slightly non-linear, a deeper network might improve performance.
+Classification Practice Questions
+3. Loan Approval Prediction
+o Question: Classify whether a loan application will be approved based on income and credit score.
+o Model: Logistic Regression, Random forest classifier, or ANN with a sigmoid activation function in the output layer.
+o Evaluation: Use accuracy, precision, recall, and F1-score.
+4. Storm Prediction
+o Question: Predict whether there will be a storm based on rainfall and storm probability.
+o Model: Random Forest or ANN.
+o Tip: Normalize features for better ANN performance.
+Clustering Practice Questions
+5. Customer Segmentation
+o Question: Group customers based on annual income, spending score, and age to identify different customer types.
+o Model: K-Means Clustering 
+o Challenge: Visualize clusters and interpret their significance.
+6. Weather Condition Clustering
+o Question: Cluster weather data into different patterns based on temperature, rainfall, and storm probability.
+o Model: K-Means 
+o Evaluation: Use precision score to evaluate clustering quality.
+
+ANN Practice Questions
+9. Predicting Electricity Bill
+o Question: Build an ANN with three input neurons (household size, daily usage hours, number of appliances) and one output neuron to predict electricity bills.
+o Layers: Use 2 hidden layers with ReLU activation.
+o Output Layer: Use a linear activation function for regression.
+10. Classifying Loan Approval
+* Question: Design an ANN to predict loan approval. Use two hidden layers.
+* Input Features: Income and credit score.
+* Output Layer: Use a sigmoid activation function for binary classification.
+12. Weather Condition Classification
+* Question: Predict if the weather condition is “Stormy” or “Clear” based on temperature, rainfall, and storm probability.
+* Model: Use an ANN with 3 inputs and one output for binary classification.
+

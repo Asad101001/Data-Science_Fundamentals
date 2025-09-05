@@ -1,0 +1,95 @@
+Analysis of covid dataset using R and python 
+Insights from the OWID COVID-19 Dataset.
+1. Total number of cases, deaths, recoveries, and vaccinations globally.
+2. Countries with the highest and lowest total cases and deaths.
+3. Countries with the highest vaccination coverage (percentage of population vaccinated).
+4. Global case fatality rate (deaths/cases).
+5. New cases and deaths trends (daily and smoothed).
+6. Trends of cases, deaths, and vaccinations over time globally and by country.
+7. Identify peaks in cases, deaths, and vaccinations over the observation period.
+8. Reproduction rate trends to study the progression of the pandemic.
+9. Time-series analysis of ICU and hospital admissions (weekly trends).
+10. Relationship between testing rates and new cases over time.
+11. Compare continents by total cases, deaths, and vaccinations.
+12. Identify countries with the highest cases and deaths per million population.
+13. Analyze testing rates across continents and countries.
+14. Study the distribution of hospital beds per thousand people by continent.
+15. Relationship between life expectancy and COVID-19 outcomes (cases/deaths).
+16. Correlation between hospital beds per thousand and fatality rate.
+17. Countries with high ICU admissions vs. those with high deaths.
+18. Study the effect of handwashing facilities on the spread of the virus.
+19. Analyze the relationship between positive test rate and cases detected.
+20. Relationship between healthcare infrastructure and vaccination rollout.
+21. Study the relationship between GDP per capita and vaccination rates.
+22. Correlation between extreme poverty levels and COVID-19 case rates.
+23. Analyze how population density impacted the spread of COVID-19.
+24. Compare case and death rates across age groups (median_age, aged_65_older, aged_70_older).
+25. Study the role of smoking prevalence (male and female) in COVID-19 mortality.
+26. Correlation between stringency index and new case trends.
+27. Countries with the strictest policies and their impact on cases and deaths.
+28. Relationship between vaccination rates and stringency index over time.
+29. Test positivity rates by country over time.
+30. Countries with the highest and lowest tests per case ratio.
+31. Excess mortality trends by country and continent.
+32. Calculate vaccination rates relative to GDP per capita.
+33. Relationship between reproduction rate and total tests conducted.
+34. Countries with the highest booster coverage.
+35. Trends of daily vaccinations globally and by region.
+36. Impact of boosters on reducing new cases or deaths.
+37. Top countries achieving full vaccination for their population.
+38. Total number of cases, deaths, and vaccinations globally.
+39. Identify the top 10 most affected countries in terms of total cases and deaths.
+40. Rank countries by vaccination rate (percentage of population fully vaccinated).
+41. Compare cases, deaths, and vaccination trends by continents.
+42. Calculate the global case fatality rate (CFR) and compare it by country and continent.
+43. Study daily and cumulative trends of cases, deaths, and vaccinations over time globally.
+44. Identify "waves" of the pandemic by analyzing new cases and deaths trends over time.
+45. Analyze the relationship between the reproduction rate (R) and new cases.
+46. Compare peaks in new cases and deaths across continents to identify lagging waves.
+47. Observe trends in ICU admissions and hospitalizations during peak periods.
+48. Top 5 countries with the highest and lowest cases per million and deaths per million.
+49. Countries with disproportionately high or low death rates despite similar case numbers.
+50. Analyze testing density (total tests per thousand) by country and continent.
+51. Study the geographic distribution of countries with the highest vaccination rates.
+52. Correlation between population density and cases/deaths per million globally.
+53. Countries with the fastest vaccination rollouts (new vaccinations smoothed).
+54. Compare vaccination rates between high-income and low-income countries.
+55. Study trends in booster doses and their impact on reducing case and death rates.
+56. Compare the percentage of fully vaccinated individuals with new cases to assess vaccine effectiveness.
+57. Correlation between stringency index and vaccination rates over time.
+58. Calculate and compare test positivity rates by country (positive_rate = new_cases / new_tests).
+59. Identify countries with the highest and lowest tests per case ratio.
+60. Study the effect of testing density on the detection of cases and deaths.
+61. Relationship between daily testing trends and daily new cases over time.
+62. Testing strategies of countries with low death rates.
+63. Study the correlation between hospital beds per thousand and deaths per million.
+64. Compare ICU and hospital admissions in countries with high and low death rates.
+65. Study the impact of limited handwashing facilities on the spread of COVID-19.
+66. Analyze the effect of life expectancy on recovery rates and fatalities.
+67. Correlation between healthcare infrastructure and vaccination coverage.
+68. Relationship between the stringency index and the growth of new cases and deaths.
+69. Identify countries with early stringent measures and their long-term impacts.
+70. Countries with low stringency but high vaccination rates – were they successful?
+71. Study the changes in the reproduction rate (R) before and after stricter policies.
+72. Correlation between stringency index and ICU/hospital admissions.
+73. Study the impact of median_age on cases and death rates.
+74. Compare countries with higher proportions of aged_65_older and aged_70_older to their fatality rates.
+75. Analyze the role of smoking prevalence (male and female) in death rates.
+76. Study the role of population density in spreading the virus across countries.
+77. Compare vaccination rates among countries with high and low GDP per capita.
+78. Study the relationship between extreme poverty levels and COVID-19 cases/deaths.
+79. Compare GDP per capita and vaccination rollout speed by country.
+80. Correlation between COVID-19 fatalities and human development index (HDI).
+81. Study how stringency measures impacted economically weaker regions.
+82. Analyze the excess mortality rate compared to reported deaths for different countries.
+83. Study the lag time between infection peaks and vaccination increases in countries.
+84. Compare ICU admissions and deaths per million to measure healthcare stress.
+85. Calculate vaccination-to-case ratios by country and continent.
+86. Relationship between GDP per capita and availability of hospital beds.
+87. Calculate cumulative "recovery rates" using cases, deaths, and active cases data.
+88. Forecast trends in cases, deaths, and vaccinations using smoothed time-series data.
+89. Analyze countries that have "flattened the curve" vs. those with ongoing waves.
+90. Study the impact of boosters on reducing case surges in highly vaccinated countries.
+91. Examine the duration of new waves in countries with high vaccination rates.
+
+
